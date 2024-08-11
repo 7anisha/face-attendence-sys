@@ -1,6 +1,3 @@
-Here's a README file for your Flask-based Attendance System project:
-
----
 
 # Flask Attendance System with Face Recognition
 
@@ -19,7 +16,7 @@ This project is a Flask-based web application for an automated attendance system
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/attendance-system.git
+   git clone https://github.com/7anisha/face-attendence-sys.git
    cd attendance-system
    ```
 
